@@ -2,13 +2,13 @@
 
 ```text
 $ whoami
-Head of IT @ Qualitas Funds
-I build automation + AI + custom software that removes ops overhead and scales teams.
+Head of IT
+Developing AI-powered developer tools and autonomous agents, focusing on LLM integrations and intelligent automation for complex workflows.
 
 $ focus
 - Agentic automation (n8n / APIs / workflows)
 - LLM apps (RAG, tools, evals, guardrails)
-- Custom software (backend, integrations, delivery)
+- Integrations & internal platforms that remove operational overhead
 
 $ principles
 - Ship > slide decks
@@ -23,8 +23,7 @@ $ principles
 ---
 
 ## Español (resumen)
-Construyo **automatización, IA y software a medida** para reducir carga operativa y escalar equipos sin caos.
+Desarrollo herramientas y agentes con IA enfocados en **integraciones con LLMs** y **automatización inteligente** para flujos de trabajo complejos.
 
-**Contacto / info:**
 - Web: https://davidbuitrago.dev
 - LinkedIn: https://www.linkedin.com/in/david-buitrago-4b7059a3/
